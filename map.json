@@ -150,7 +150,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/fairteaching.net\/b\/eva-uhe-wqd"
+                 "value":"https:\/\/fairteaching.net\/b\/eva-uhe-wqd\\"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -168,7 +168,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/meet.jit.si\/ObjectiveHumanitiesOffendOpenly"
+                 "value":"https:\/\/ws1.ejggr.de"
                 }],
          "type":"tilelayer",
          "visible":true,
