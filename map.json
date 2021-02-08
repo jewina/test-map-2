@@ -168,7 +168,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/ws1.ejggr.de"
+                 "value":"http:\/\/ws1.ejggr.de"
                 }],
          "type":"tilelayer",
          "visible":true,
